@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="all_songs">All Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_name">Song Name</string>
+</resources>
